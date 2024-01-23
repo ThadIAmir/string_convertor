@@ -1,5 +1,5 @@
 # string_convertor
-<b>a Program written in Assembly that does diffrent things on users's input(string)<b>
+a Program written in Assembly that does diffrent things on users's input(string)
 <hr>
 in this program , you enter an string at first and then you see a menu that offers you diffrent options to do with your code .
 1- make you entry UPPERCASE
