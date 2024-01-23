@@ -3,7 +3,7 @@ a Program written in Assembly that does diffrent things on users's input(string)
 <hr>
 in this program , you enter an string at first and then you see a menu that offers you diffrent options to do with your code :
 <br>
-1- make you entry UPPERCASE <br>
+1- make your entry UPPERCASE <br>
 2- ... lowercase <br>
 3- ... Reverse <br>
 4- its Length <br>
